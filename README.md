@@ -11,7 +11,7 @@ Estore is a REACT-RESPONSIVE Web that allows shopping Furniture.
 !["ESTORE"](https://github.com/ryu923/Estore/blob/master/public/Estore5.JPG)
 !["ESTORE"](https://github.com/ryu923/Estore/blob/master/public/Estore6.JPG)
 
-### - Dependencies
+### Dependencies
 - React
 - ReactDOM
 - Bootstrap
@@ -20,6 +20,6 @@ Estore is a REACT-RESPONSIVE Web that allows shopping Furniture.
 
 ## Getting Started
 - Clone this repository
-- Inside of MovieAll folder, install all dependencies (Using the `npm install` command).
-- inside of MovieAll folder, run the app using the `npm start` command.
+- Inside of Estore folder, install all dependencies (Using the `npm install` command).
+- inside of Estore folder, run the app using the `npm start` command.
 - open multiple browser windows and access http://localhost:3000/
