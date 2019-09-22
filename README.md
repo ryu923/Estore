@@ -5,6 +5,8 @@ Estore is a REACT-RESPONSIVE Web that allows shopping Furniture.
 *** This is my a part of the project (Front Web structure)  ***
 
 !["ESTORE"](https://github.com/ryu923/Estore/blob/master/public/Estore1.JPG)
+!["ESTORE"](https://github.com/ryu923/Estore/blob/master/public/Estore2.JPG)
+!["ESTORE"](https://github.com/ryu923/Estore/blob/master/public/Estore3.JPG)
 
 ### - Dependencies
 - React
